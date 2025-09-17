@@ -1,5 +1,10 @@
 # DataLogger-UneDuneTe
 
+- Grupo 6:
+- Murilo Umbelino Oliveira dos Santos - RA: 082230013
+- Victor Mendes de Andrade Ferreira - RA: 082230015
+- Lucas Junqueira Gonçalves - RA: 082230029
+
 ## 📌 Descrição do Projeto
 Este projeto consiste em um **Data Logger com Arduino** capaz de monitorar:
 - **Temperatura** (sensor DHT11)  
