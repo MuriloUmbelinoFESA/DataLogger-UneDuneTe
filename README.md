@@ -1,9 +1,13 @@
-# DataLogger-UneDuneTe
+<img width="909" height="680" alt="image" src="https://github.com/user-attachments/assets/e0ac9861-3a0d-4ef9-9dcd-bc9aa8f4c76a" /># DataLogger-UneDuneTe
 
 - Grupo 6:
 - Murilo Umbelino Oliveira dos Santos - RA: 082230013
 - Victor Mendes de Andrade Ferreira - RA: 082230015
 - Lucas Junqueira Gonçalves - RA: 082230029
+
+# Link de apresentação do projeto
+
+- https://youtu.be/mJ0166kbTA8
 
 ## 📌 Descrição do Projeto
 Este projeto consiste em um **Data Logger com Arduino** capaz de monitorar:
