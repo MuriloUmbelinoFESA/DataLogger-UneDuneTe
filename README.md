@@ -1,4 +1,4 @@
-<img width="909" height="680" alt="image" src="https://github.com/user-attachments/assets/e0ac9861-3a0d-4ef9-9dcd-bc9aa8f4c76a" /># DataLogger-UneDuneTe
+# DataLogger-UneDuneTe
 
 - Grupo 6:
 - Murilo Umbelino Oliveira dos Santos - RA: 082230013
